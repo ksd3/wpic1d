@@ -1,4 +1,4 @@
-READ ME for wpic1d MATLAB code used in AS 727 Plasmas, written by William Longley
+READ ME for wpic1d MATLAB code used in AS 727 Plasmas, written by William Longley and extended by Kshitij Duraphe
 
 This code was written for MATLAB R2016a, and has been tested on versions R2011a and 2018b
 
